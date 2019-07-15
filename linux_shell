@@ -1,0 +1,2 @@
+// rename all files in a folder from upper-case to lower-case
+===> rename 'y/A-Z/a-z/' *
